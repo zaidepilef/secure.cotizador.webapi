@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1998: El método asincrónico carece de operadores "await" y se ejecutará de forma sincrónica
+dotnet_diagnostic.CS1998.severity = silent

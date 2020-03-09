@@ -1,0 +1,27 @@
+﻿[
+  {
+    "apiKey": "1001",
+    "id": "1001",
+    "name": "Felipe Diaz",
+    "email": "felipe.diaz@neosoltec.cl"
+  },
+  {
+    "apiKey": "1002",
+    "id": "1002",
+    "name": "Comapra Seguros",
+    "email": "felipe.diaz@neosoltec.cl"
+  },
+  {
+    "apiKey": "1003",
+    "id": "1003",
+    "name": "Assist Card",
+    "email": "felipe.diaz@neosoltec.cl"
+  },
+  {
+    "apiKey": "1004",
+    "id": "1004",
+    "name": "Seguros Autos",
+    "email": "felipe.diaz@neosoltec.cl"
+  }
+
+]
